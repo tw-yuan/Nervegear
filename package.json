@@ -16,7 +16,7 @@
     "discord-rpc": "^3.2.0"
   },
   "devDependencies": {
-    "electron": "^13.0.1",
+    "electron": "^22.3.21",
     "electron-builder": "^22.10.5",
     "@types/node": "^18.8.5",
     "copyfiles": "^2.4.1",
